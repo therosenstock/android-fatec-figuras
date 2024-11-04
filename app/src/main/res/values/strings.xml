@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geometria</string>
+    <string name="circulo">Circulo</string>
+    <string name="retangulo">Retangulo</string>
+    <string name="hint_base">Base do Retângulo</string>
+    <string name="hint_altura">Altura do Retângulo</string>
+    <string name="hint_raio">Raio do Círculo</string>
+    <string name="btn_calcular_area">Calcular Área</string>
+    <string name="btn_calcular_perimetro">Calcular Perímetro</string>
+    <string name="resultado_area">Área: %1$.2f</string>
+    <string name="resultado_perimetro">Perímetro: %1$.2f</string>
+</resources>
